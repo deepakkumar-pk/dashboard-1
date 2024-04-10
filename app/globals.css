@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.MuiCircularProgress-colorPrimary {
+    color: blueviolet !important;
+}
